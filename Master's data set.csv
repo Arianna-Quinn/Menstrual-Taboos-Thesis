@@ -1,0 +1,145 @@
+HRAF.culture,tip.label,Expression,Restrictiveness,lat,long,Subsistence_Pattern,Subsistence,Biome,Landscape,MeanMonthlyTemperature,Temperature_Predictability,Temperature_Variance,Precipitation_Variance,MeanMonthlyPrecipitation,Precipitation_Predictability,Men_Poly
+Babylonians,Babylonians,1,3,33,45,Intensive Agricultralists,Agriculture,Deserts & Xeric Shrublands,Deserts,23,0.640160674,111,171992938,7852.64,0.347395525,0
+Zuni,Zuni,0,0,36,-109,Intensive Agricultralists,Agriculture,Deserts & Xeric Shrublands,Deserts,10,0.57931965,103,789133236,41598.73,0.5558235,0
+Teda,Teda,1,1,21,18,Agro-Pastoralists,Agriculture,Deserts & Xeric Shrublands,Deserts,22,0.641627338,46,156975917,5593.44,0.303939394,10
+O'odham,Papago,1,3,32,-112,Other Combos,Agriculture,Deserts & Xeric Shrublands,Deserts,22,0.614612452,62,704821052,24749.74,0.403531842,27
+Nubians,Kenuzi_Nubians,1,1,23,39,Horticultralists,Horticulture,Deserts & Xeric Shrublands,Deserts,27,0.725292015,24,185140467,6403.37,0.249339973,
+Aranda,Aranda,1,2,-24,134,Hunter-Gatherers,Hunter-Gatherers,Deserts & Xeric Shrublands,Deserts,21,0.591495003,37,3710057302,61707.63,0.452378106,60
+Eastern Apache,Chiricahua,1,1,32,-110,Hunter-Gatherers,Hunter-Gatherers,Deserts & Xeric Shrublands,Deserts,14,0.605925134,70,1165794130,44151.73,0.51981461,18
+Northern Paiute,Paiute_North,1,3,43,-119,Hunter-Gatherers,Hunter-Gatherers,Deserts & Xeric Shrublands,Deserts,7,0.550759337,84,1342878435,54119.16,0.596869848,12
+Tuareg,Tuareg,1,3,23,7,Agro-Pastoralists,Pastoralism,Deserts & Xeric Shrublands,Deserts,20,0.637141328,55,203070726,5723.95,0.27951869,0
+Goajiro,Goajiro,1,1,12,-72,Pastoralists,Pastoralism,Deserts & Xeric Shrublands,Deserts,26,0.858467477,1,690620975,25502.4,0.695438965,40
+Khoi,Nama_Hottentot,1,2,-28,17,Pastoralists,Pastoralism,Deserts & Xeric Shrublands,Deserts,19,0.669471417,11,386520648,17684.07,0.552160071,5
+Rwala Bedouin,Rwala_Bedouin,1,2,33,39,Pastoralists,Pastoralism,Deserts & Xeric Shrublands,Deserts,16,0.622996025,80,193864145,13405.26,0.459266012,
+Aleut,Aleut,1,2,55,-163,Hunter-Gatherers,Hunter-Gatherers,Boreal Forests/Taiga,Forests,3,0.647161133,12,992190434,81344.05,0.750429141,20
+Nivkhs,Gilyak,1,2,53,142,Hunter-Gatherers,Hunter-Gatherers,Boreal Forests/Taiga,Forests,-3,0.532602438,230,1086199659,53529.82,0.636441967,1
+Ingalik,Ingalik,1,3,63,-160,Hunter-Gatherers,Hunter-Gatherers,Boreal Forests/Taiga,Forests,-4,0.457029625,126,886700089,58884.32,0.664050635,4
+Kaska,Kaska,1,3,60,-131,Hunter-Gatherers,Hunter-Gatherers,Boreal Forests/Taiga,Forests,-5,0.483030316,109,1398625820,81754.23,0.711216025,2
+Innu,Montagnais,1,3,50,-74,Hunter-Gatherers,Hunter-Gatherers,Boreal Forests/Taiga,Forests,0,0.533263018,175,1142304198,77742.71,0.735906007,7
+Ojibwa,Saulteaux,1,2,52,-96,Hunter-Gatherers,Hunter-Gatherers,Boreal Forests/Taiga,Forests,1,0.503938367,226,506258689,42363.34,0.682821213,2
+Slavey,Slave,1,3,61,-120,Hunter-Gatherers,Hunter-Gatherers,Boreal Forests/Taiga,Forests,-3,0.467644261,212,263255952,29515.94,0.670022065,2
+Saami,Lapps,1,2,69,22,Pastoralists,Pastoralism,Boreal Forests/Taiga,Forests,-3,0.521744634,92,713389583,65438.05,0.731691465,0
+Mapuche,Mapuche,0,0,-39,-73,Intensive Agricultralists,Agriculture,"Mediterranean Forests, Woodlands, & Scrub",Forests,12,0.729435579,12,4295021417,72565.78,0.614944272,6
+Eastern Pomo,MISSING_Pomo_Eastern,1,1,39,-123,Intensive Agricultralists,Agriculture,"Mediterranean Forests, Woodlands, & Scrub",Forests,14,0.666567942,16,6496817890,63918.09,0.488241822,2
+Imperial Romans,Romans,1,1,42,12,Intensive Agricultralists,Agriculture,"Mediterranean Forests, Woodlands, & Scrub",Forests,15,0.653850112,40,1651724949,55827.23,0.58798742,0
+Berbers or Morocco,Riffians,1,1,35,-3,Agro-Pastoralists,Agriculture,"Mediterranean Forests, Woodlands, & Scrub",Forests,19,0.655456608,35,374401020,20103.01,0.456040806,11
+Han Chinese,Chinese,1,2,37,118,Intensive Agricultralists,Agriculture,Temperate Broadleaf & Mixed Forests,Forests,12,0.618389052,142,6707887952,73714.84,0.493192614,0
+Okayama,Japanese,1,2,35,134,Intensive Agricultralists,Agriculture,Temperate Broadleaf & Mixed Forests,Forests,14,0.656782616,68,7394435303,132984.24,0.656782616,0
+Korea,Koreans,1,2,38,126,Intensive Agricultralists,Agriculture,Temperate Broadleaf & Mixed Forests,Forests,11,0.676033933,100,6186705294,79581.2,0.571090278,1
+Manchu,Manchu,1,2,50,126,Intensive Agricultralists,Agriculture,Temperate Broadleaf & Mixed Forests,Forests,-1,0.568257375,263,3547577607,53252.19,0.617193659,0
+Basques,Basques,1,1,43,-2,Agro-Pastoralists,Agriculture,Temperate Broadleaf & Mixed Forests,Forests,14,0.691022688,15,1866041422,72670.8,0.641531828,0
+Rural Irish,Irish,1,1,54,-10,Agro-Pastoralists,Agriculture,Temperate Broadleaf & Mixed Forests,Forests,11,0.748178587,8,3491045078,132987.16,0.76708049,0
+Huron,MISSING_Huron,1,3,45,-79,Other Combos,Horticulture,Temperate Broadleaf & Mixed Forests,Forests,7,0.668149871,135,1124859360,76328.79,0.668149871,0
+Creek,Creek,1,3,33,-86,Hunter-Gatherers,Hunter-Gatherers,Temperate Broadleaf & Mixed Forests,Forests,16,0.621906609,56,2746224264,104125.27,0.652124125,
+Maori,Maori,1,3,-35,174,Hunter-Gatherers,Hunter-Gatherers,Temperate Broadleaf & Mixed Forests,Forests,17,0.777040984,9,2880919131,96335.55,0.621173695,1
+Mi'kmaq,Micmac,1,3,47,-65,Hunter-Gatherers,Hunter-Gatherers,Temperate Broadleaf & Mixed Forests,Forests,6,0.580414978,118,1638214920,99384.77,0.708767505,13
+Yahgan,Yahgan,0,0,-56,-70,Hunter-Gatherers,Hunter-Gatherers,Temperate Broadleaf & Mixed Forests,Forests,4,0.718842882,4,671652292,107757.57,0.817754903,5
+Kurds,Kurd,1,2,37,45,Pastoralists,Pastoralism,Temperate Broadleaf & Mixed Forests,Forests,15,0.610643704,120,1516010607,38059.23,0.451745288,4
+Havasupai,Havasupai,1,2,36,-112,Other Combos,Agriculture,Temperate Conifer Forests,Forests,12,0.588108958,95,1623479162,39414.62,0.44606464,10
+Ainu,Ainu,1,2,44,144,Hunter-Gatherers,Hunter-Gatherers,Temperate Conifer Forests,Forests,7,0.610077986,108,3293987850,105774.09,0.702515747,1
+Nuxalk,Bellacoola,1,2,52,-127,Hunter-Gatherers,Hunter-Gatherers,Temperate Conifer Forests,Forests,2,0.541918409,49,16364533162,192758.49,0.674157665,
+Eyak,Eyak,1,3,61,-145,Hunter-Gatherers,Hunter-Gatherers,Temperate Conifer Forests,Forests,-1,0.541454996,39,6981751820,174457.36,0.667805767,
+Haida,Haida,1,3,54,-133,Hunter-Gatherers,Hunter-Gatherers,Temperate Conifer Forests,Forests,7,0.633101313,12,4443168997,110998.47,0.709648746,
+Klamath,MISSING_Klamath,1,3,43,-122,Hunter-Gatherers,Hunter-Gatherers,Temperate Conifer Forests,Forests,8,0.568131431,50,15025939486,133841.31,0.582081243,20
+Yurok,MISSING_Yurok,1,3,42,-124,Hunter-Gatherers,Hunter-Gatherers,Temperate Conifer Forests,Forests,12,0.65134887,13,10790474701,101372.28,0.587750387,4
+Santal,Santal,1,2,24,87,Intensive Agricultralists,Agriculture,Tropical & Subtropical Dry Broadleaf Forests,Forests,25,0.642094263,33,14510681796,113006.54,0.486404492,2
+Nahua,Aztec,1,2,19,-99,Other Combos,Agriculture,Tropical & Subtropical Dry Broadleaf Forests,Forests,14,0.760565231,6,8269156567,119352.15,0.658068088,
+Alorese,Alorese,1,2,-8,125,Horticultralists,Horticulture,Tropical & Subtropical Dry Broadleaf Forests,Forests,27,0.834456265,0,23833377925,168015.15,0.604145283,27
+Huichol,Huichol,0,0,22,-105,Other Combos,Horticulture,Tropical & Subtropical Dry Broadleaf Forests,Forests,23,0.80148585,4,16962515259,140587.69,0.589552149,
+Yapese,Yapese,1,3,10,138,Other Combos,Horticulture,Tropical & Subtropical Dry Broadleaf Forests,Forests,28,0.843143845,0,11339982121,240615.97,0.685111424,5
+Vedda,Vedda,0,0,8,81,Hunter-Gatherers,Hunter-Gatherers,Tropical & Subtropical Dry Broadleaf Forests,Forests,26,0.823363068,1,20512809565,184632.91,0.632752036,0
+Balinese,Balinese,1,3,-9,115,Intensive Agricultralists,Agriculture,Tropical & Subtropical Moist Broadleaf Forests,Forests,26,0.835891421,1,15887286508,177016.72,0.625700618,18
+Burmans,Burmese,1,2,22,96,Intensive Agricultralists,Agriculture,Tropical & Subtropical Moist Broadleaf Forests,Forests,23,0.693668726,17,13002196174,101497.28,0.534675439,0
+Javanese,Javanese,1,2,-8,112,Intensive Agricultralists,Agriculture,Tropical & Subtropical Moist Broadleaf Forests,Forests,26,0.814093763,0,15377980634,188300.98,0.654488941,2
+Kapauku,Kapauku,0,0,-4,136,Intensive Agricultralists,Agriculture,Tropical & Subtropical Moist Broadleaf Forests,Forests,24,0.849195744,0,29213650732,330068.14,0.653550567,31
+Cambodians,Khmer,1,2,12,105,Intensive Agricultralists,Agriculture,Tropical & Subtropical Moist Broadleaf Forests,Forests,25,0.739226829,3,22299796285,186258.22,0.683406944,
+Yi,Lolo,1,1,28,104,Intensive Agricultralists,Agriculture,Tropical & Subtropical Moist Broadleaf Forests,Forests,10,0.675058953,44,7338060720,108919.25,0.664730881,3
+Kimam,MISSING_Kimam,1,3,-8,139,Intensive Agricultralists,Agriculture,Tropical & Subtropical Moist Broadleaf Forests,Forests,26,0.835337738,1,13856923015,175932.42,0.648898766,15
+Quiche Maya,Quiche,1,1,15,-91,Intensive Agricultralists,Agriculture,Tropical & Subtropical Moist Broadleaf Forests,Forests,24,0.777626739,3,9210797676,90766.67,0.676147291,
+Central Thai,Siamese,1,1,14,101,Intensive Agricultralists,Agriculture,Tropical & Subtropical Moist Broadleaf Forests,Forests,24,0.710509079,9,20087073747,149789.93,0.668414215,1
+Tanala,Tanala,0,0,-22,48,Intensive Agricultralists,Agriculture,Tropical & Subtropical Moist Broadleaf Forests,Forests,21,0.782051936,6,10140991395,117686.56,0.64028757,31
+Vietnamese,Vietnamese,1,2,21,106,Intensive Agricultralists,Agriculture,Tropical & Subtropical Moist Broadleaf Forests,Forests,21,0.694632321,32,10912991575,113964.15,0.620375247,
+Akan,Ashanti,1,3,7,-2,Horticultralists,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,24,0.76971966,2,6752452184,116988,0.696104421,49
+Aymara,Aymara,1,2,-16,-66,Horticultralists,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,18,0.746889376,4,31254400384,233882.15,0.658866592,0
+Kuna,Cuna_Tule,1,2,9,-79,Horticultralists,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,26,0.844883836,0,21744630225,156628.37,0.754203495,1
+Garo,Garo,1,3,26,91,Horticultralists,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,23,0.676833729,27,15283382412,116149.27,0.503631168,9
+Iban,Iban,1,1,2,113,Horticultralists,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,24,0.85501586,0,11016841047,241816.67,0.684465027,0
+Igbo,Ibo,1,3,6,7,Horticultralists,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,25,0.784091609,2,8374543041,138728.19,0.705665753,24
+Jivaro,Jivaro,1,2,-3,-78,Horticultralists,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,21,0.776108034,1,8841008874,118612.38,0.713244058,50
+Mara,Lakher,1,2,22,93,Horticultralists,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,22,0.721559698,18,13169633272,110430.32,0.585944256,
+Mende,Mende,1,1,8,-12,Horticultralists,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,25,0.817180001,1,57923937221,235053.32,0.697608287,90
+Mongo,Nkundo_Mongo,1,1,-1,19,Horticultralists,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,23,0.81980859,0,7122628458,196079.76,0.7877248,
+Eastern Toraja,Toradja,1,2,-2,121,Horticultralists,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,23,0.842534407,0,14773302749,245748.54,0.669679837,
+Samoans,Western_Samoans,1,1,-14,-172,Horticultralists,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,27,0.84497839,1,12213542079,219723.26,0.677829062,0
+Yanomami,Yanomamo,1,3,2,-65,Horticultralists,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,23,0.7939747,0,18950462637,190459.49,0.692074174,38
+Siwai,Siuai,1,1,-7,155,Agro-Pastoralists,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,27,0.85913973,0,16864903667,289372.46,0.72167192,14
+Tsonga,Thonga,0,0,-26,32,Agro-Pastoralists,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,18,0.718662611,9,12418251664,134197.58,0.634970748,40
+Amahuaca,Amahuaca,1,2,-10,-72,Other Combos,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,24,0.748946486,1,5823699641,114339.03,0.726753273,50
+Talamancans,Bribri,1,2,9,-83,Other Combos,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,26,0.8055649,0,13672070334,112754.13,0.737767558,5
+Tukano,Cubeo_Tucano,1,3,1,-71,Other Combos,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,24,0.808392515,0,8701186359,248037.87,0.816894928,3
+Gond,Gond,1,3,20,81,Other Combos,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,23,0.691012822,18,24696382253,132169.32,0.549625275,
+Kwoma,Kwoma,1,2,-4,143,Other Combos,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,21,0.8395235,0,23857301913,375291.93,0.758307521,38
+Marquesas,Marquesans,1,2,-9,-140,Other Combos,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,27,0.787867357,0,22176393604,154798.14,0.638503399,0
+Marshallese,Marshallese,1,3,6,169,Other Combos,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,28,0.856103189,0,17777078999,302548.23,0.6959807,
+Saramaka,Saramacca,1,3,4,-56,Other Combos,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,25,0.724681911,2,7982395717,98884.88,0.726687272,60
+Tikopia,Tikopia,1,1,-12,169,Other Combos,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,27,0.844851678,1,15697970977,239613.6,0.677857147,5
+Trobriands,Trobrianders,1,1,-9,151,Other Combos,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,27,0.848110871,1,12473689601,206628.76,0.672301215,
+Chuuk,Trukese,1,3,7,152,Other Combos,Horticulture,Tropical & Subtropical Moist Broadleaf Forests,Forests,28,0.854249051,0,18619153518,281260.56,0.697768963,0
+Andamans,Andamanese,1,3,12,93,Hunter-Gatherers,Hunter-Gatherers,Tropical & Subtropical Moist Broadleaf Forests,Forests,26,0.805758564,2,31205924957,159977.04,0.589804953,0
+Sama-Bajau,Badjau,0,0,5,120,Hunter-Gatherers,Hunter-Gatherers,Tropical & Subtropical Moist Broadleaf Forests,Forests,27,0.842628436,0,9218356714,210298.77,0.699791859,0
+Island Carib,Callinago,1,3,15,-61,Hunter-Gatherers,Hunter-Gatherers,Tropical & Subtropical Moist Broadleaf Forests,Forests,26,0.853289992,1,1681700105,41612.62,0.637897047,30
+Barama River Carib,Carib_Barama,1,3,7,-60,Hunter-Gatherers,Hunter-Gatherers,Tropical & Subtropical Moist Broadleaf Forests,Forests,25,0.784225637,1,3196062741,82988.23,0.797256885,20
+Kiribati,Gilbertese,1,3,3,173,Hunter-Gatherers,Hunter-Gatherers,Tropical & Subtropical Moist Broadleaf Forests,Forests,27,0.80060325,0,23456572588,209493.38,0.559455676,
+Manus,Manus,1,1,-2,147,Hunter-Gatherers,Hunter-Gatherers,Tropical & Subtropical Moist Broadleaf Forests,Forests,28,0.842232695,0,10765114054,219223.79,0.625105769,2
+Mbuti,Mbuti,1,3,2,28,Hunter-Gatherers,Hunter-Gatherers,Tropical & Subtropical Moist Broadleaf Forests,Forests,21,0.816795745,0,8474274385,246503.22,0.784538547,6
+Miskito,Miskito,1,3,15,-83,Hunter-Gatherers,Hunter-Gatherers,Tropical & Subtropical Moist Broadleaf Forests,Forests,26,0.856405403,1,3617435018,75804.74,0.715106202,2
+Semang,Semang,1,2,5,101,Hunter-Gatherers,Hunter-Gatherers,Tropical & Subtropical Moist Broadleaf Forests,Forests,25,0.830861754,1,23289771427,241032.26,0.682639897,1
+Siriono,Siriono,1,1,-15,-64,Hunter-Gatherers,Hunter-Gatherers,Tropical & Subtropical Moist Broadleaf Forests,Forests,27,0.699749967,3,6801139023,99838.91,0.627940061,28
+Trumai,Trumai,1,1,-12,-54,Hunter-Gatherers,Hunter-Gatherers,Tropical & Subtropical Moist Broadleaf Forests,Forests,24,0.750440693,4,16468389692,138303.4,0.616533436,12
+Tupinamba,Tupinamba,1,2,-23,-45,Hunter-Gatherers,Hunter-Gatherers,Tropical & Subtropical Moist Broadleaf Forests,Forests,19,0.726463941,8,9477828432,119486.36,0.650196306,30
+Warao,Warrau,1,3,9,-62,Hunter-Gatherers,Hunter-Gatherers,Tropical & Subtropical Moist Broadleaf Forests,Forests,26,0.833988352,1,2053100779,60798.89,0.776031139,60
+Chachi,Cayapa,0,0,1,-79,Other Combos,Hunter-Gatherers,Tropical & Subtropical Moist Broadleaf Forests,Forests,23,0.783821885,0,16219626157,256564.75,0.730143807,0
+Toda,Toda,1,3,12,77,Pastoralists,Pastoralism,Tropical & Subtropical Moist Broadleaf Forests,Forests,24,0.79479302,2,36643643801,196914.37,0.636273301,1
+Fellahin,Egyptians,1,1,25,33,Intensive Agricultralists,Agriculture,Flooded Grasslands & Savannas,Grasslands,24,0.657733079,56,61013724,2906.47,0.351085543,3
+Lozi,Lozi,1,2,-16,24,Other Combos,Agriculture,Flooded Grasslands & Savannas,Grasslands,22,0.715611495,11,16848707242,105957.49,0.515210058,40
+Amhara,Amhara,1,1,13,38,Intensive Agricultralists,Agriculture,Montane Grasslands & Shrublands,Grasslands,20,0.722535314,4,7102274111,73701.4,0.519560893,0
+Inka,Inca,1,1,-14,-72,Intensive Agricultralists,Agriculture,Montane Grasslands & Shrublands,Grasslands,3,0.730279602,3,41396047734,308214.49,0.820655606,10
+Lepcha,Lepcha,1,3,28,89,Intensive Agricultralists,Agriculture,Montane Grasslands & Shrublands,Grasslands,8,0.69638479,39,96491128664,253037.73,0.534284911,21
+Nyakyusa and Ngonde,Nyakyusa,1,3,-10,34,Intensive Agricultralists,Agriculture,Montane Grasslands & Shrublands,Grasslands,18,0.752033892,8,14085952159,110479.41,0.728508561,44
+Armenia,Armenians,1,1,40,45,Intensive Agricultralists,Agriculture,"Temperate Grasslands, Savannas, & Shrublands",Grasslands,7,0.583140594,95,947079950,47323.33,0.653814772,0
+Hidatsa,Hidatsa,1,3,47,-101,Intensive Agricultralists,Agriculture,"Temperate Grasslands, Savannas, & Shrublands",Grasslands,7,0.508878774,188,766656465,37897.46,0.633481258,90
+Pawnee,Pawnee,1,1,42,-100,Other Combos,Horticulture,"Temperate Grasslands, Savannas, & Shrublands",Grasslands,10,0.526247596,141,1386862473,49431.81,0.613605807,54
+Comanche,Comanche,1,3,34,-102,Hunter-Gatherers,Hunter-Gatherers,"Temperate Grasslands, Savannas, & Shrublands",Grasslands,15,0.568641162,95,1583535098,60381.73,0.575382605,25
+Gros Ventre,Gros_Ventre,1,1,48,-108,Hunter-Gatherers,Hunter-Gatherers,"Temperate Grasslands, Savannas, & Shrublands",Grasslands,7,0.509995463,149,590114282,38480.41,0.658103503,40
+Omaha,MISSING_Omaha,1,3,41,-97,Hunter-Gatherers,Hunter-Gatherers,"Temperate Grasslands, Savannas, & Shrublands",Grasslands,12,0.524770885,161,1387105739,53964.64,0.616569554,35
+Tehuelche,Tehuelche,0,0,-41,-68,Hunter-Gatherers,Hunter-Gatherers,"Temperate Grasslands, Savannas, & Shrublands",Grasslands,8,0.651734691,37,602182954,42585.36,0.61734263,1
+Yokuts,Yokuts_Lake,1,2,35,-120,Hunter-Gatherers,Hunter-Gatherers,"Temperate Grasslands, Savannas, & Shrublands",Grasslands,17,0.6188898,29,2700143356,32750.65,0.419393038,5
+Kazakh,Kazak,1,1,43,76,Pastoralists,Pastoralism,"Temperate Grasslands, Savannas, & Shrublands",Grasslands,3,0.57909679,120,861589161,40559.54,0.624230961,10
+Ganda,Ganda,1,3,0,33,Intensive Agricultralists,Agriculture,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,22,0.779701391,1,15279696081,136714.31,0.604572546,55
+Gikuyu,Kikuyu,1,1,-1,37,Intensive Agricultralists,Agriculture,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,18,0.772535365,1,2391993146,48525.62,0.669648678,
+Nuba,Otoro_Nuba,1,3,11,31,Intensive Agricultralists,Agriculture,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,26,0.720400228,4,5077602208,78687.65,0.654283409,
+Songhai,Songhai,1,1,17,-2,Intensive Agricultralists,Agriculture,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,27,0.669153854,30,777977038,18839.65,0.579141479,1
+Tallensi,Tallensi,0,0,11,-1,Intensive Agricultralists,Agriculture,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,26,0.727287881,4,8784440210,87246.74,0.634377422,40
+Bambara,Bambara,1,3,13,-7,Agro-Pastoralists,Agriculture,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,26,0.715705273,7,9041559139,80352.36,0.645309212,
+Masa,Massa_Masa,0,0,11,16,Agro-Pastoralists,Agriculture,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,26,0.721990878,4,6003048458,77687.36,0.651249858,
+Azande,Azande,1,1,5,28,Horticultralists,Horticulture,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,22,0.776169832,1,12359177298,177589.06,0.706924385,32
+Bemba,Bemba,1,2,-11,31,Horticultralists,Horticulture,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,18,0.751397474,9,20553738597,126297.48,0.719558678,2
+Fon,Fon,1,3,7,2,Horticultralists,Horticulture,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,25,0.772019014,1,7891901482,118937.91,0.672336889,
+Luguru,Luguru,1,3,-7,38,Horticultralists,Horticulture,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,21,0.808886348,4,5819966558,116820.56,0.707984455,
+Ovimbundu,Mbundu,1,3,-12,17,Horticultralists,Horticulture,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,18,0.741032035,3,13661008540,122664.13,0.569825805,27
+Tiv,Tiv,1,1,7,9,Horticultralists,Horticulture,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,24,0.770463564,2,12760382786,150153.63,0.650224499,20
+Wolof,Wolof,1,2,14,-15,Horticultralists,Horticulture,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,27,0.770896687,3,950682474,20853.2,0.550238113,39
+Hadza,Hadza,1,1,-4,35,Hunter-Gatherers,Hunter-Gatherers,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,19,0.741498826,3,10440323091,86607.66,0.667924294,6
+San,Kung_Bushmen,1,2,-20,21,Hunter-Gatherers,Hunter-Gatherers,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,21,0.663742143,15,11601735251,87000,0.478079126,10
+Enxet and Enlhet,Lengua,1,2,-23,-59,Hunter-Gatherers,Hunter-Gatherers,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,25,0.628947046,13,6264653158,97963.02,0.608324256,3
+Nambicuara,MISSING_Nambicuara,1,1,-13,-59,Hunter-Gatherers,Hunter-Gatherers,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,24,0.724191694,3,11398012340,120205.15,0.622984362,31
+Xavante,Shavante,1,2,-14,-52,Hunter-Gatherers,Hunter-Gatherers,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,25,0.706246565,4,15093364988,118024.23,0.585009656,24
+Tiwi,Tiwi,1,2,-11,131,Hunter-Gatherers,Hunter-Gatherers,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,27,0.809061767,2,27168025880,148308.81,0.604742188,70
+Maasai,Masai,0,0,-4,37,Pastoralists,Pastoralism,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,19,0.75700962,3,4960612801,71294.37,0.696066264,41
+Fulani,Pastoral_Fulani,1,2,15,8,Pastoralists,Pastoralism,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,25,0.6750865,21,2377791781,35297.96,0.58098193,5
+Somali,Somali,1,2,9,47,Pastoralists,Pastoralism,"Tropical & Subtropical Grasslands, Savannas, & Shrublands",Grasslands,23,0.723550239,7,1958075071,38064.72,0.598009921,43
+Burusho,Burusho,1,3,36,75,Intensive Agricultralists,Agriculture,Ice,Tundra,-10,0.575711386,135,2968959468,76644.64,0.600620664,
+Copper Inuit,Copper_Eskimo,1,1,69,-113,Hunter-Gatherers,Hunter-Gatherers,Tundra,Tundra,-14,0.434701346,287,183123377,23707.47,0.676987644,5
+Yukaghir,Yukaghir,1,1,65,154,Hunter-Gatherers,Hunter-Gatherers,Tundra,Tundra,-14,0.467298378,361,349239596,32568.67,0.652616472,1
+Nenets,Yurak_Samoyed,1,2,68,52,Hunter-Gatherers,Hunter-Gatherers,Tundra,Tundra,-5,0.459163422,145,418058681,42108.24,0.686769175,0
+Chukchee,Chukchee,1,3,67,180,Pastoralists,Pastoralism,Tundra,Tundra,-14,0.4673705,159,715301571,50583.29,0.623083252,33
